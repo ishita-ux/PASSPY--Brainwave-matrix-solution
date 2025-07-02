@@ -18,7 +18,11 @@ PassPy is a Python-based password strength checker designed with a hacker-themed
     🎨 Hacker-Themed GUI:
     Inspired by classic terminal aesthetics with a dark, cyberpunk-style interface — for a realistic and engaging security experience
 
-INSTALLATION 
+ ![Screenshot 2025-07-02 195635](https://github.com/user-attachments/assets/51c1d833-484b-4e87-8622-559e9100ad87)
+     
+      
+      INSTALLATION 
+ 
  
  git clone https://github.com/your-username/passpy.git
 cd passpy
